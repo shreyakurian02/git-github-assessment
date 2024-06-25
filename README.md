@@ -12,4 +12,4 @@ Unregistered users could upload Gists until March 19, 2018, when uploading Gists
 
 Added task 3 changes here.
 
-Gists' URLs use hexadecimal IDs, and edits to Gists are recorded in a revision history, which can show the text difference of thirty revisions per page with an option between a "split" and "unified" view. Like repositories, Gists can be forked, "starred", i.e., publicly bookmarked, and commented on. The count of revisions, stars, and forks is indicated on the gist page.
+Gists' URLs use hexadecimal IDs, and edits to Gists are recorded in a revision history, which can show the text difference of thirty revisions per page with an option between a "split" and "unified" view. Like repositories, Gists can be forked, "starred". The count of revisions, stars, and forks is indicated on the gist page.
