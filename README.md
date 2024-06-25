@@ -10,4 +10,6 @@ Gist builds on the traditional simple concept of a pastebin by adding version co
 
 Unregistered users could upload Gists until March 19, 2018, when uploading Gists was restricted to logged-in users, reportedly to mitigate spamming on the page of recent Gists.[96]
 
+Added task 3 changes here.
+
 Gists' URLs use hexadecimal IDs, and edits to Gists are recorded in a revision history, which can show the text difference of thirty revisions per page with an option between a "split" and "unified" view. Like repositories, Gists can be forked, "starred", i.e., publicly bookmarked, and commented on. The count of revisions, stars, and forks is indicated on the gist page.[97]
